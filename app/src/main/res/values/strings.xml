@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FunQuiz</string>
+    <string name="quiz_app">Quiz App!</string>
+    <string name="welcome">WELCOME :)</string>
+    <string name="Quiz_app">QUIZ APP!</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="e_g_shashi">e.g. Shashi</string>
+    <string name="lets_go">Lets Go</string>
+    <string name="bts_quiz">BTS QUIZ</string>
+    <string name="quiz_image">Quiz Image</string>
+</resources>
